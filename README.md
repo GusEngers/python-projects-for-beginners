@@ -6,7 +6,7 @@ Dichos proyectos emplean funcionalidades propias de Python y librerías tanto es
 
 ## PROYECTOS
 
-- [Mad Libs](#) →  `En proceso`
+- [Mad Libs](https://github.com/GusEngers/python-projects-for-beginners/tree/main/proyecto-1) →  `Completo`
 - [Adivina el número (computadora)](#) →  `En proceso`
 - [Adivina el número (usuario)](#) →  `En proceso`
 - [Piedra, Papel, Tijeras](#) →  `En proceso`
