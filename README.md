@@ -9,7 +9,7 @@ Dichos proyectos emplean funcionalidades propias de Python y librerías tanto es
 - [Mad Libs](https://github.com/GusEngers/python-projects-for-beginners/tree/main/proyecto-1) →  `Completo`
 - [Adivina el número (computadora)](https://github.com/GusEngers/python-projects-for-beginners/tree/main/proyecto-2) →  `Completo`
 - [Adivina el número (usuario)](https://github.com/GusEngers/python-projects-for-beginners/tree/main/proyecto-3) →  `Completo`
-- [Piedra, Papel, Tijeras](#) →  `En proceso`
+- [Piedra, Papel, Tijeras](https://github.com/GusEngers/python-projects-for-beginners/tree/main/proyecto-4) →  `Completo`
 - [Hangman](#) →  `En proceso`
 - [Temporizador de cuenta regresiva](#) →  `En proceso`
 - [Generador de contraseñas](#) →  `En proceso`
