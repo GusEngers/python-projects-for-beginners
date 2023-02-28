@@ -1,3 +1,8 @@
+# Ejercicio en el cual la computadora tendrá que adivinar
+# el número que estamos pensando (dentro de un rango de números)
+# a través de preguntas que nos irá haciendo,
+# usando el módulo random
+
 import random
 
 if __name__ == "__main__":
