@@ -11,7 +11,7 @@ Dichos proyectos emplean funcionalidades propias de Python y librerías tanto es
 - [Adivina el número (usuario)](https://github.com/GusEngers/python-projects-for-beginners/tree/main/proyecto-3) →  `Completo`
 - [Piedra, Papel, Tijeras](https://github.com/GusEngers/python-projects-for-beginners/tree/main/proyecto-4) →  `Completo`
 - [Hangman](https://github.com/GusEngers/python-projects-for-beginners/tree/main/proyecto-5) →  `Completo`
-- [Temporizador de cuenta regresiva](#) →  `En proceso`
+- [Temporizador de cuenta regresiva](https://github.com/GusEngers/python-projects-for-beginners/tree/main/proyecto-6) →  `Completo`
 - [Generador de contraseñas](#) →  `En proceso`
 - [QR codificador](#) →  `En proceso`
 - [Tic-tac-toe](#) →  `En proceso`
