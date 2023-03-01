@@ -12,8 +12,8 @@ Dichos proyectos emplean funcionalidades propias de Python y librerías tanto es
 - [Piedra, Papel, Tijeras](https://github.com/GusEngers/python-projects-for-beginners/tree/main/proyecto-4) →  `Completo`
 - [Hangman](https://github.com/GusEngers/python-projects-for-beginners/tree/main/proyecto-5) →  `Completo`
 - [Temporizador de cuenta regresiva](https://github.com/GusEngers/python-projects-for-beginners/tree/main/proyecto-6) →  `Completo`
+- [QR codificador](https://github.com/GusEngers/python-projects-for-beginners/tree/main/proyecto-7) →  `Completo`
 - [Generador de contraseñas](#) →  `En proceso`
-- [QR codificador](#) →  `En proceso`
 - [Tic-tac-toe](#) →  `En proceso`
 - [Tic-tac-toe IA](#) →  `En proceso`
 - [Búsqueda binaria](#) →  `En proceso`
