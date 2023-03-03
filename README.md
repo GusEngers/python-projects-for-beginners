@@ -14,7 +14,7 @@ Dichos proyectos emplean funcionalidades propias de Python y librerías tanto es
 - [Temporizador de cuenta regresiva](https://github.com/GusEngers/python-projects-for-beginners/tree/main/proyecto-6) →  `Completo`
 - [QR codificador](https://github.com/GusEngers/python-projects-for-beginners/tree/main/proyecto-7) →  `Completo`
 - [Generador de contraseñas](https://github.com/GusEngers/python-projects-for-beginners/tree/main/proyecto-8) →  `Completo`
-- [Tic-tac-toe](#) →  `En proceso`
+- [Tic-tac-toe](https://github.com/GusEngers/python-projects-for-beginners/tree/main/proyecto-9) →  `Completo (sin seguir tutorial)` 
 - [Tic-tac-toe IA](#) →  `En proceso`
 - [Búsqueda binaria](#) →  `En proceso`
 - [Minesweeper](#) →  `En proceso`
