@@ -16,7 +16,7 @@ Dichos proyectos emplean funcionalidades propias de Python y librerías tanto es
 - [Generador de contraseñas](https://github.com/GusEngers/python-projects-for-beginners/tree/main/proyecto-8) →  `Completo`
 - [Tic-tac-toe](https://github.com/GusEngers/python-projects-for-beginners/tree/main/proyecto-9) →  `Completo (sin seguir tutorial)` 
 - [Tic-tac-toe IA](#) →  `En proceso`
-- [Búsqueda binaria](#) →  `En proceso`
+- [Búsqueda binaria](https://github.com/GusEngers/python-projects-for-beginners/tree/main/proyecto-11) →  `Completo`
 - [Minesweeper](#) →  `En proceso`
 - [Solucionador de sudoku](#) →  `En proceso`
 - [Manipulación de fotos](#) →  `En proceso`
